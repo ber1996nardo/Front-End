@@ -1,0 +1,13 @@
+Crie uma página HTML com um título "Minha página inicial" e um parágrafo de boas-vindas.
+
+Adicione uma lista não ordenada com três itens: "Notícias", "Esportes" e "Entretenimento".
+
+Adicione uma imagem na página, usando a tag <img>.
+
+Adicione uma tabela com três colunas e três linhas. Preencha a tabela com informações de sua escolha.
+
+Adicione um link na página que leve a um site de sua escolha, usando a tag <a>.
+
+Adicione um formulário na página com dois campos de entrada (nome e email) e um botão de envio.
+
+Adicione estilo à página usando CSS. Mude o tamanho e a cor da fonte, adicione uma cor de fundo, centralize o título da página, etc.
